@@ -201,3 +201,35 @@ body {
     border-radius: 10px;
     color: white;
 }
+
+#giulioandcommunity {
+    background: rgb(1, 96, 109);
+    width: 1200px;
+    height: 210px;
+    margin-top: 80px;
+    margin-left: 45px;
+    box-shadow: var(--ombrablu);
+
+}
+#immagine2 {
+    width: 180px;
+    height: 180px;
+    margin-top: 15px;
+    margin-left: 40px;
+    user-select: none;
+    border-radius: 100px;
+}
+#testogiulio {
+    margin-top:-240px;
+    user-select: none;
+    font-family: "Bebas Neue";
+    margin-left: 370px;
+    font-size: 50px;
+    text-align: center;
+    width: 500px;
+    height: 70px;
+    background-color: rgb(1, 96, 109);
+    box-shadow: var(--ombrablu);
+    border-radius: 10px;
+    color: white;
+}
